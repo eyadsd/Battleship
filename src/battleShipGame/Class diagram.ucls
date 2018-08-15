@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="false" dependencies="false" nesting-relationships="true" router="FAN">  
+  <enumeration id="1" language="java" name="battleShipGame.Difficulty" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/Difficulty.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="119" x="138" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="2" language="java" name="battleShipGame.ComputerPlayer.AI" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/ComputerPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="242" x="1342" y="797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="battleShipGame.InputManager" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/InputManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="165" x="297" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="battleShipGame.Tile" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/Tile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="124" x="502" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="battleShipGame.ComputerPlayer" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/ComputerPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="186" x="1370" y="586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="battleShipGame.Game" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/Game.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="180" x="666" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="7" language="java" name="battleShipGame.ShipDirection" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/ShipDirection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="142" x="886" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="8" language="java" name="battleShipGame.Settings" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/Settings.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="163" x="1068" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="battleShipGame.Mine" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/Mine.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="171" x="1271" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="battleShipGame.Main" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="1802" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="11" language="java" name="battleShipGame.State" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/State.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="119" x="1955" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="12" language="java" name="battleShipGame.Player" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="280" x="1482" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="battleShipGame.HumanPlayer.UserInput" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/HumanPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="216" x="1624" y="797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="battleShipGame.HumanPlayer" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/HumanPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="186" x="1596" y="586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="battleShipGame.Ship" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/Ship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="177" x="2114" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="battleShipGame.MineReport" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/MineReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="161" x="2331" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="battleShipGame.Coordinates" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/Coordinates.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="117" x="2532" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="battleShipGame.Grid" project="BattleShip" 
+    file="/BattleShip/src/battleShipGame/Grid.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="191" x="2689" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <nesting id="20">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <nesting id="21">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <generalization id="22">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="false" private="false" static="true"/>    
+    <operations public="true" package="true" protected="false" private="false" static="true"/>  
+  </classifier-display>  
+  <association-display labels="false" multiplicity="true"/>
+</class-diagram>
